@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0403-frog-jump](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0403-frog-jump) |
 ## Backtracking
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0062-unique-paths) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
