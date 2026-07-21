@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0403-frog-jump](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0403-frog-jump) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
 | [0403-frog-jump](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0403-frog-jump) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
