@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
 | [0403-frog-jump](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0403-frog-jump) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
