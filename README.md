@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0198-house-robber](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0403-frog-jump) |
 ## Backtracking
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0403-frog-jump) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
