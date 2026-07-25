@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
