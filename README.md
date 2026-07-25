@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Array
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 <!---LeetCode Topics End-->
