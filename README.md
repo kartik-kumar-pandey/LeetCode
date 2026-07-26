@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -137,6 +139,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
