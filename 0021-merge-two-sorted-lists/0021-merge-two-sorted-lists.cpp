@@ -1,45 +1,53 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-
-        if (list1 == nullptr) return list2;
-        if (list2 == nullptr) return list1;
-
-        ListNode *final, *temp1 = list1, *temp2 = list2;
-
-        if (list1->val < list2->val) {
-            final = temp1;
-            temp1 = temp1->next;
+           ListNode* mergedList=NULL;
+           if(list1==NULL){
+            return list2;
+           }
+           if(list2== NULL){
+            return list1;
+           }
+            ListNode* curr1=list1;
+            ListNode* curr2=list2;
+        if (list1->val <= list2->val) {
+            mergedList = list1;
+            list1 = list1->next;
         } else {
-            final = temp2;
-            temp2 = temp2->next;
+            mergedList = list2;
+            list2 = list2->next;
         }
-
-        ListNode *head = final;   // store head
-
-        while (temp1 != nullptr && temp2 != nullptr) {
-            if (temp1->val < temp2->val) {
-                final->next = temp1;
-                temp1 = temp1->next;
-            } else {
-                final->next = temp2;
-                temp2 = temp2->next;
-            }
-            final = final->next;
+          ListNode* current=mergedList;
+    while (list1 != NULL && list2 != NULL) {
+        if (list1->val <= list2->val) {
+            current->next = list1;
+            current = current->next;
+            list1 = list1->next;
+        } else {
+            current->next = list2;
+            current = current->next;
+            list2 = list2->next;
         }
-
-        while (temp1) {
-            final->next = temp1;
-            temp1 = temp1->next;
-            final = final->next;
-        }
-
-        while (temp2) {
-            final->next = temp2;
-            temp2 = temp2->next;
-            final = final->next;
-        }
-
-        return head;
     }
+
+    if (list1 != NULL) {
+        current->next = list1;
+    } else {
+        current->next = list2;
+    }
+
+    return mergedList;
+}
+
+    
 };
