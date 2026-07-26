@@ -68,6 +68,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0189-rotate-array) |
@@ -107,6 +108,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -119,6 +121,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0344-reverse-string) |
