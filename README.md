@@ -51,6 +51,7 @@
 | [0054-spiral-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0198-house-robber) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
