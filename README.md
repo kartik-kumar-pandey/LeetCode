@@ -53,6 +53,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0045-jump-game-ii) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
