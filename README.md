@@ -53,6 +53,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
@@ -118,6 +119,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0031-next-permutation) |
@@ -135,6 +137,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
