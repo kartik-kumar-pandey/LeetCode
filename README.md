@@ -94,6 +94,7 @@
 | [0189-rotate-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0443-string-compression) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -125,6 +126,7 @@
 | [0072-edit-distance](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
