@@ -42,6 +42,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
