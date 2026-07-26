@@ -63,6 +63,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
