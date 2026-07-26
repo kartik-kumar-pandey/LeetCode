@@ -27,6 +27,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Tree
@@ -37,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0045-jump-game-ii) |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
