@@ -151,6 +151,7 @@
 | [0014-longest-common-prefix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0344-reverse-string) |
