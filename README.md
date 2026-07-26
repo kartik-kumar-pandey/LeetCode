@@ -18,6 +18,7 @@
 | [0198-house-robber](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0403-frog-jump](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -167,6 +169,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Depth-First Search
