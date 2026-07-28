@@ -151,6 +151,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -181,6 +182,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -292,4 +294,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
