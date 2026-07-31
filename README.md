@@ -161,6 +161,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -195,6 +196,7 @@
 | [0474-ones-and-zeroes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -211,6 +213,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
@@ -265,6 +269,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
