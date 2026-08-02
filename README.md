@@ -24,6 +24,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0518-coin-change-ii) |
+| [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Backtracking
@@ -91,6 +92,7 @@
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -115,6 +117,7 @@
 | [0202-happy-number](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -328,4 +331,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0322-coin-change) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
