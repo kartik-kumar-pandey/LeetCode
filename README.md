@@ -18,6 +18,7 @@
 | [0072-edit-distance](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0322-coin-change) |
@@ -74,6 +75,7 @@
 | [0078-subsets](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0189-rotate-array) |
@@ -197,6 +199,7 @@
 | [0043-multiply-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -241,6 +244,7 @@
 | [0013-roman-to-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -264,6 +268,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
 ## Recursion
 |  |
 | ------- |
@@ -351,4 +356,12 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
