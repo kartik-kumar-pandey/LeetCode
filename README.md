@@ -264,6 +264,7 @@
 |  |
 | ------- |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [3310-remove-methods-from-project](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
 | ------- |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0322-coin-change) |
+| [3310-remove-methods-from-project](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Game Theory
 |  |
 | ------- |
@@ -364,4 +366,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
