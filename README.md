@@ -120,6 +120,7 @@
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -290,6 +291,7 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
 | ------- |
