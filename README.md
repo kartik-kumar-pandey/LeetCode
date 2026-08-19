@@ -109,6 +109,7 @@
 | [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1109-corporate-flight-bookings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -382,6 +383,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1109-corporate-flight-bookings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Breadth-First Search
