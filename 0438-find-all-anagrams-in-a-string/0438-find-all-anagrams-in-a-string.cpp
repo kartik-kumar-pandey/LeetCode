@@ -9,16 +9,28 @@ public:
             mp1[p[i]]++;
         }
         vector<int>ret;
-
-        for(int i=0;i<n;i++){
-            unordered_map<char,int>mp2;
-            for(int j=i;j<i+p_size;j++){
-                mp2[s[j]]++;
-            }
-            if(mp1==mp2){
-                ret.push_back(i);
-            }
+         unordered_map<char,int>mp2;
+        for(int i=0;i<p_size;i++){
+             mp2[s[i]]++;
         }
+        if(mp1==mp2){
+            ret.push_back(0);
+        }
+        for(int i=p_size;i<n_size;i++){
+            mp2[s[i]]++;
+
+            mp2[s[i-p_size]]--;
+            if (mp2[s[i-p_size]]==0){
+                mp2.erase(s[i-p_size]);
+            }
+            
+            if (mp1==mp2) {
+                ret.push_back(i-p_size+1);
+            }
+
+        }
+
+            
         return ret;
     }
 };
