@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -28,6 +29,7 @@
 | [0474-ones-and-zeroes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0518-coin-change-ii) |
+| [0845-longest-mountain-in-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
@@ -105,6 +107,7 @@
 | [0566-reshape-the-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
+| [0845-longest-mountain-in-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
@@ -186,6 +189,7 @@
 | [0443-string-compression](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0567-permutation-in-string) |
+| [0845-longest-mountain-in-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
