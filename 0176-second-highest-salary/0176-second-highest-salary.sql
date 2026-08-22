@@ -1,7 +1,4 @@
-SELECT MAX(SecondHighestSalary) AS SecondHighestSalary
-FROM (
-    SELECT salary AS SecondHighestSalary,
-           DENSE_RANK() OVER (ORDER BY salary DESC) AS rnk
-    FROM Employee
-) ranked
-WHERE rnk = 2;
+select Max(salary) as SecondHighestSalary 
+from Employee
+where salary<(select Max(salary) as SecondHighestSalary 
+from Employee);
