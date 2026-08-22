@@ -464,4 +464,8 @@
 |  |
 | ------- |
 | [2241-design-an-atm-machine](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2241-design-an-atm-machine) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
