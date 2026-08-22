@@ -1,1 +1,7 @@
-select MIN(Salary) as SecondHighestSalary from ( select distinct Salary from Employee order by Salary desc limit 1 OFFSET 1) AS temp;
+SELECT MAX(SecondHighestSalary) AS SecondHighestSalary
+FROM (
+    SELECT salary AS SecondHighestSalary,
+           DENSE_RANK() OVER (ORDER BY salary DESC) AS rnk
+    FROM Employee
+) ranked
+WHERE rnk = 2;
