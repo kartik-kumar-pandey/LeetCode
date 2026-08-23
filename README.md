@@ -153,6 +153,7 @@
 | [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -256,6 +257,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1446-consecutive-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1446-consecutive-characters) |
+| [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -278,6 +280,7 @@
 | [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [2241-design-an-atm-machine](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -428,6 +431,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 ## Euclidean Algorithm
 |  |
 | ------- |
