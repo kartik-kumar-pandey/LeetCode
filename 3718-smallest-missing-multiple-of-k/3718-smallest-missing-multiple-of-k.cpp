@@ -13,10 +13,6 @@ public:
 
         }
         return k*j;
-        if(j==n){
-            return k*n+1;
-        }
-
-        return 0;
+        
     }
 };
