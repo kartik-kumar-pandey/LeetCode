@@ -118,6 +118,7 @@
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -272,6 +273,7 @@
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
 | [3834-merge-adjacent-equal-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Greedy
 |  |
@@ -366,6 +368,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -469,6 +472,7 @@
 ## Design
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
 | [2241-design-an-atm-machine](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2241-design-an-atm-machine) |
 ## Database
 |  |
@@ -478,4 +482,12 @@
 | [0183-customers-who-never-order](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0577-employee-bonus) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
