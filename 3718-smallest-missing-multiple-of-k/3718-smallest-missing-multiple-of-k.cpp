@@ -1,29 +1,22 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_set<int>s(nums.begin(),nums.end());
-        int mul=1;
+        sort(nums.begin(),nums.end());
+        int j=1;
         bool flag=false;
-        if(nums.size()==1){
-            if(nums[0]==k){
-                return k*2;
-            }else{
-                return k;
-            }
-        }
-        for(int i=0;i<nums.size();i++){
-            if(!s.count(mul*k)){
 
-                return mul*k;
-            }else{
-                flag=true;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            if(nums[i]==k*j){
+                j++;
             }
-            mul++;
+
         }
-        if(flag){
-            return k*(nums.size()+1);
+        return k*j;
+        if(j==n){
+            return k*n+1;
         }
-        
+
         return 0;
     }
 };
