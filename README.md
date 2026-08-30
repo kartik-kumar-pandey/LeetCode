@@ -126,6 +126,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0622-design-circular-queue](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
@@ -411,6 +412,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -430,6 +432,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
@@ -544,6 +547,7 @@
 | [0146-lru-cache](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
 | [2241-design-an-atm-machine](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2241-design-an-atm-machine) |
