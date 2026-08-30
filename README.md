@@ -84,6 +84,7 @@
 | [0042-trapping-rain-water](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
@@ -211,6 +212,7 @@
 | [0015-3sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -254,6 +256,7 @@
 | [0022-generate-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
@@ -322,6 +325,7 @@
 | [0013-roman-to-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0202-happy-number) |
