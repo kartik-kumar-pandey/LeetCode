@@ -53,6 +53,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Search Tree
 |  |
@@ -78,6 +79,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Array
 |  |
@@ -374,6 +376,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [3310-remove-methods-from-project](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Trie
