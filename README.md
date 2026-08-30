@@ -305,6 +305,7 @@
 | [0020-valid-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -401,6 +402,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
@@ -534,6 +536,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
 | [2241-design-an-atm-machine](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2241-design-an-atm-machine) |
