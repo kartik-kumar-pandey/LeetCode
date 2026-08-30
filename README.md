@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Search Tree
@@ -57,6 +58,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Array
@@ -363,6 +366,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [3310-remove-methods-from-project](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Trie
