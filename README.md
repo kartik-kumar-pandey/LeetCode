@@ -245,6 +245,7 @@
 | [0013-roman-to-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0043-multiply-strings) |
@@ -276,6 +277,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -509,4 +511,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0706-design-hashmap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
