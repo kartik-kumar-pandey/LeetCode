@@ -92,6 +92,7 @@
 | [0056-merge-intervals](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
@@ -289,6 +290,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
@@ -529,4 +532,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
