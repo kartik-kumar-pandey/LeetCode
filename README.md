@@ -41,6 +41,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
@@ -82,6 +83,7 @@
 | [0041-first-missing-positive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
@@ -208,6 +210,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
