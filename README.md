@@ -33,6 +33,7 @@
 | [0845-longest-mountain-in-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -296,6 +297,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0940-distinct-subsequences-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1143-longest-common-subsequence) |
