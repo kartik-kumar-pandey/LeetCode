@@ -398,6 +398,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Depth-First Search
 |  |
 | ------- |
