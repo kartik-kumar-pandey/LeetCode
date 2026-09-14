@@ -186,6 +186,7 @@
 | [0204-count-primes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0204-count-primes) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
@@ -605,4 +606,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
