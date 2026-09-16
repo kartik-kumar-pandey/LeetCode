@@ -37,6 +37,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Backtracking
@@ -233,6 +234,7 @@
 | [0567-permutation-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0567-permutation-in-string) |
 | [0845-longest-mountain-in-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -309,6 +311,7 @@
 | [1446-consecutive-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1446-consecutive-characters) |
 | [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -339,6 +342,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [2241-design-an-atm-machine](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2241-design-an-atm-machine) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
