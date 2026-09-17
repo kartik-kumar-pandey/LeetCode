@@ -37,6 +37,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -74,6 +75,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -387,6 +390,7 @@
 | [0706-design-hashmap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1396-design-underground-system](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1396-design-underground-system) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2848-points-that-intersect-with-cars](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -495,6 +499,7 @@
 | [0239-sliding-window-maximum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2401-longest-nice-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
