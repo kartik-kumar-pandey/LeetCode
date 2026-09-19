@@ -207,6 +207,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -350,6 +351,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
