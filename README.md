@@ -256,6 +256,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -318,6 +319,7 @@
 | [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -396,6 +398,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1396-design-underground-system](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1396-design-underground-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
