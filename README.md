@@ -328,6 +328,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1396-design-underground-system](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1396-design-underground-system) |
 | [1446-consecutive-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1446-consecutive-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1694-reformat-phone-number](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1694-reformat-phone-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
@@ -355,6 +356,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3834-merge-adjacent-equal-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Greedy
 |  |
@@ -635,6 +637,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
