@@ -328,6 +328,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1396-design-underground-system](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1396-design-underground-system) |
@@ -358,6 +359,7 @@
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -641,6 +643,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query
