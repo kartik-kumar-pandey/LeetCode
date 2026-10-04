@@ -32,6 +32,7 @@
 | [0474-ones-and-zeroes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -327,6 +328,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0678-valid-parenthesis-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -361,6 +363,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -376,6 +379,7 @@
 | [0045-jump-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [2241-design-an-atm-machine](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2241-design-an-atm-machine) |
@@ -650,6 +654,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
