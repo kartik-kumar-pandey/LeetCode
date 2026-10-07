@@ -40,6 +40,7 @@
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2370-longest-ideal-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -343,6 +344,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2370-longest-ideal-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -434,6 +436,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2370-longest-ideal-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
