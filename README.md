@@ -170,6 +170,7 @@
 | [2401-longest-nice-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2562-find-the-array-concatenation-value](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2784-check-if-array-is-good](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -275,6 +276,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -444,6 +446,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2370-longest-ideal-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2370-longest-ideal-subsequence) |
+| [2784-check-if-array-is-good](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
