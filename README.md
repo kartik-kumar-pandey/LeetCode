@@ -144,6 +144,7 @@
 | [0566-reshape-the-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0835-image-overlap) |
@@ -556,6 +557,7 @@
 | [0239-sliding-window-maximum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2401-longest-nice-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2401-longest-nice-subarray) |
