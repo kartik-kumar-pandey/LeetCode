@@ -175,6 +175,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -456,6 +457,7 @@
 | [2784-check-if-array-is-good](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -694,4 +696,12 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
