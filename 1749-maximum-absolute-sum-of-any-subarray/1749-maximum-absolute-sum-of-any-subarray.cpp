@@ -16,12 +16,10 @@ public:
         sum=0;
         for (int i=0;i<n;i++){
             sum+=nums[i];
-
-            minsum=min(minsum,sum);
-
             if(sum>0){
                 sum=0;
             }
+            minsum=min(minsum,sum);
         }
 
         return max(abs(maxsum),abs(minsum));
