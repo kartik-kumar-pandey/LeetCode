@@ -156,6 +156,7 @@
 | [0875-koko-eating-bananas](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0934-shortest-bridge](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0934-shortest-bridge) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1109-corporate-flight-bookings) |
@@ -440,6 +441,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0835-image-overlap) |
+| [0934-shortest-bridge](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -504,6 +506,7 @@
 | [0098-validate-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0934-shortest-bridge](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0934-shortest-bridge) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1254-number-of-closed-islands](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -625,6 +628,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0322-coin-change](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0322-coin-change) |
+| [0934-shortest-bridge](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Game Theory
