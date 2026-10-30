@@ -743,4 +743,12 @@
 |  |
 | ------- |
 | [1033-moving-stones-until-consecutive](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1033-moving-stones-until-consecutive) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
