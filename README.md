@@ -48,6 +48,7 @@
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -201,6 +202,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3731-find-missing-elements) |
@@ -450,6 +452,7 @@
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [3665-twisted-mirror-path-count](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
