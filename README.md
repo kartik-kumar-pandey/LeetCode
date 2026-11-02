@@ -198,6 +198,7 @@
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -435,6 +436,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Monotonic Stack
@@ -458,6 +460,7 @@
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3665-twisted-mirror-path-count](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
