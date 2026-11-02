@@ -197,6 +197,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -331,6 +332,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
