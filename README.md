@@ -147,6 +147,7 @@
 | [0496-next-greater-element-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -233,6 +234,7 @@
 | [0204-count-primes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0523-continuous-subarray-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -486,6 +488,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0706-design-hashmap) |
@@ -638,6 +641,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1109-corporate-flight-bookings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -769,4 +773,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
