@@ -178,6 +178,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1748-sum-of-unique-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -501,6 +502,7 @@
 | [1396-design-underground-system](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1396-design-underground-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1748-sum-of-unique-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2370-longest-ideal-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2370-longest-ideal-subsequence) |
@@ -567,6 +569,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
