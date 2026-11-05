@@ -1,14 +1,18 @@
 class Solution {
 public:
     int sumOfUnique(vector<int>& nums) {
-        int ret=0;
-        unordered_map<int,int>mp;
-        for(int i:nums){
-            mp[i]++;
-        }
-        for(auto it=mp.begin();it!=mp.end();it++){
-            if(it->second==1){
-                ret+=it->first;
+        int ret = 0;
+        unordered_set<int> s;
+        unordered_set<int> d;
+        for (int i : nums) {
+            if (d.count(i))
+                continue;
+            if (s.count(i)) {
+                ret -= i;
+                d.insert(i);
+            } else {
+                s.insert(i);
+                ret += i;
             }
         }
         return ret;
