@@ -181,6 +181,7 @@
 | [1748-sum-of-unique-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -605,6 +606,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
 |  |
