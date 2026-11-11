@@ -267,6 +267,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
@@ -456,6 +457,7 @@
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Monotonic Stack
 |  |
