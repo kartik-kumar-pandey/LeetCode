@@ -204,6 +204,7 @@
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
