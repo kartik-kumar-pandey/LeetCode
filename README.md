@@ -255,6 +255,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2409-count-days-spent-together](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -326,6 +327,7 @@
 | [1402-reducing-dishes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2747-count-zero-request-servers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -450,6 +452,7 @@
 | [1402-reducing-dishes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1402-reducing-dishes) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2241-design-an-atm-machine](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
