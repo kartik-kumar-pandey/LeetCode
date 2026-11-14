@@ -208,6 +208,7 @@
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -654,6 +655,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -675,6 +677,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2848-points-that-intersect-with-cars](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Breadth-First Search
