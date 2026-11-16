@@ -352,6 +352,7 @@
 | [1103-distribute-candies-to-people](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2562-find-the-array-concatenation-value](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -410,6 +411,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2370-longest-ideal-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2409-count-days-spent-together](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
