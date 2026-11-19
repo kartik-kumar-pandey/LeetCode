@@ -90,6 +90,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
@@ -181,6 +182,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -492,6 +494,7 @@
 | [1254-number-of-closed-islands](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
@@ -568,6 +571,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1254-number-of-closed-islands](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
@@ -630,6 +634,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
@@ -648,6 +653,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -700,6 +706,7 @@
 | [0934-shortest-bridge](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Game Theory
 |  |
@@ -819,4 +826,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
