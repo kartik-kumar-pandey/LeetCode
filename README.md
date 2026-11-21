@@ -82,6 +82,7 @@
 | [0098-validate-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0528-random-pick-with-weight](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -152,6 +153,7 @@
 | [0503-next-greater-element-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -250,6 +252,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -690,6 +693,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [1109-corporate-flight-bookings](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1140-stone-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -833,4 +837,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
