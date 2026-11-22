@@ -418,6 +418,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2370-longest-ideal-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2409-count-days-spent-together](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2409-count-days-spent-together) |
