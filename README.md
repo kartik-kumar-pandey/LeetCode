@@ -8,6 +8,7 @@
 | [1291-sequential-digits](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
@@ -218,6 +219,7 @@
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -271,6 +273,7 @@
 | [2409-count-days-spent-together](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -290,6 +293,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -684,6 +688,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Monotonic Queue
 |  |
 | ------- |
