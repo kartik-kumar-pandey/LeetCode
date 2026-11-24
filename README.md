@@ -160,6 +160,7 @@
 | [0622-design-circular-queue](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0648-replace-words) |
 | [0706-design-hashmap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0835-image-overlap) |
@@ -403,6 +404,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0648-replace-words](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -531,6 +533,7 @@
 | [0523-continuous-subarray-sum](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0648-replace-words) |
 | [0706-design-hashmap](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0706-design-hashmap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -587,6 +590,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0648-replace-words) |
 ## Recursion
 |  |
 | ------- |
