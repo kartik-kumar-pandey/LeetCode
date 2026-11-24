@@ -1,24 +1,24 @@
 class Solution {
 public:
     int maxLength(vector<int>& nums) {
-        int n=nums.size();
-        int ans=0;
+        int result = 2;
 
-        for(int i=0;i<n;i++){
-            long long prod=1;
-            int g=0,l=1;
+        for (int i = 0; i < nums.size() - 1; ++i) {
+            int gcd = nums[i];
+            int lcm = nums[i];
 
-            for(int j=i;j<n;j++){
-                prod*=nums[j];
-                g=__gcd(g,nums[j]);
-                l=lcm(l,nums[j]);
+            for (int j = i + 1; j < nums.size(); ++j) {
+                gcd = __gcd(gcd, nums[j]);
 
-                if(prod==1LL*g*l){
-                    ans=max(ans,j-i+1);
-                }
+                int gcd2 = __gcd(lcm, nums[j]);
+                lcm = (lcm / gcd2) * nums[j];
+
+                if (gcd != 1 || gcd2 != 1) break;
+
+                result = max(result, j - i + 1);
             }
         }
 
-        return ans;
+        return result;
     }
 };
