@@ -73,6 +73,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
@@ -588,6 +590,7 @@
 | [1254-number-of-closed-islands](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/kartik-kumar-pandey/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
